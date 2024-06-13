@@ -12,3 +12,4 @@ C:\Users\48570\Documents\Programowanie\Snake the game\obj\Debug\net8.0\refint\Sn
 C:\Users\48570\Documents\Programowanie\Snake the game\obj\Debug\net8.0\Snake the game.pdb
 C:\Users\48570\Documents\Programowanie\Snake the game\obj\Debug\net8.0\Snake the game.genruntimeconfig.cache
 C:\Users\48570\Documents\Programowanie\Snake the game\obj\Debug\net8.0\ref\Snake the game.dll
+C:\Users\48570\Documents\Programowanie\Snake the game\obj\Debug\net8.0\Snake the game.sourcelink.json
